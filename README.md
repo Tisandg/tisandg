@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🚀 Software Engineer & AI Researcher at UC3M
+
 🌱 Master in Computer Science & Technology
+
 ⚡ Open to participate in researches and competitions. Feel free to drop me a message: [davidsantiago.garcia@uc3m.es](davidsantiago.garcia@uc3m.es)
 
 <!--
