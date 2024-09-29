@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-🚀 Systems Engineer & AI Researcher at UC3M
+🚀 Software Engineer & AI Researcher | UC3M
 
-🌱 Master in Computer Science & Technology
+🎓 Master's in Computer Science & Technology
 
-⚡ Open to participate in researches and competitions. Feel free to drop me a message: [davidsantiago.garcia@uc3m.es](davidsantiago.garcia@uc3m.es)
+🔍 Open to collaborations in research, competitions, and innovative projects.
+
+📬 Feel free to reach out: [davidsantiago.garcia@uc3m.es](davidsantiago.garcia@uc3m.es)
 
 <!--
 **Tisandg/tisandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
