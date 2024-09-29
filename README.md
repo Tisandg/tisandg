@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Software Engineer & AI Researcher at UC3M
+🚀 Systems Engineer & AI Researcher at UC3M
 
 🌱 Master in Computer Science & Technology
 
