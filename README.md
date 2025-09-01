@@ -6,7 +6,7 @@
 
 🔍 Open to collaborations in research, competitions, and innovative projects.
 
-📬 Feel free to reach out: [davidsantiago.garcia@uc3m.es](dsgarcia@nimbeo.com)
+📬 Feel free to reach out: [dsgarcia@nimbeo.com](dsgarcia@nimbeo.com)
 
 <!--
 **Tisandg/tisandg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
