@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 Software Engineer & AI Researcher | UC3M
+🚀 Software Engineer & AI Researcher | NIMBEO
 
 🎓 Master's in Computer Science & Technology
 
